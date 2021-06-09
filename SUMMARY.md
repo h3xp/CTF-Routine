@@ -4,7 +4,9 @@
 
 ## Steganography
 
-* [Tools](steganography/tools.md)
+* [Images](steganography/tools.md)
+* [Audio](steganography/audio.md)
+* [Text](steganography/text.md)
 
 ## Cryptography
 

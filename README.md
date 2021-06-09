@@ -8,7 +8,7 @@ Welcome to my personal CTF Routine knowledge database. I just started playing CT
 
 ### Socials
 
-|  |  |
+| Platform | URL |
 | :--- | :--- |
 | GitHub | [https://github.com/h3xp](https://github.com/h3xp) |
 | Twitter | [https://twitter.com/hexp\_](https://twitter.com/hexp_) |
