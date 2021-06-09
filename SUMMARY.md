@@ -16,10 +16,6 @@
 
 * [Tools](reverse-engineering/tools.md)
 
-## Wordlists
-
-* [Untitled](wordlists/untitled.md)
-
 ## Enumeration
 
 * [Tools](enumeration/tools.md)
@@ -28,6 +24,10 @@
 
 * [Living off the Land](privilege-escalation/living-off-the-land.md)
 
+## Cheatsheets
+
+* [Server Side Template Injection \(SSTI\)](cheatsheets/server-side-template-injection-ssti.md)
+
 ## Learn To
 
 * [Hack](learn-to/hack.md)
@@ -35,5 +35,6 @@
 
 ---
 
+* [Wordlists](untitled.md)
 * [Misc](misc.md)
 
