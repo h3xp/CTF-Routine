@@ -1,6 +1,6 @@
 # Tools
 
-[https://gchq.github.io/CyberChef/cyberchef.htm](https://gchq.github.io/CyberChef/cyberchef.htm) 
+[CyberChef](https://gchq.github.io/CyberChef/)
 
 [https://www.nayuki.io/page/automatic-caesar-cipher-breaker-javascript](https://www.nayuki.io/page/automatic-caesar-cipher-breaker-javascript) 
 
