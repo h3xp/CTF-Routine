@@ -4,5 +4,7 @@
 
 [https://neatnik.net/steganographr/](https://neatnik.net/steganographr/)
 
-[http://www.darkside.com.au/snow/](http://www.darkside.com.au/snow/)
+{% embed url="http://www.darkside.com.au/snow/" %}
+
+[https://github.com/offdev/zwsp-steg-js](https://github.com/offdev/zwsp-steg-js)
 
