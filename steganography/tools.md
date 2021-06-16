@@ -4,6 +4,8 @@
 
 [https://stegonline.georgeom.net/upload](https://stegonline.georgeom.net/upload) 
 
+[https://fotoforensics.com/](https://fotoforensics.com/)
+
 [https://futureboy.us/stegano/decinput.html](https://futureboy.us/stegano/decinput.html) 
 
 [https://github.com/DominicBreuker/stego-toolkit](https://github.com/DominicBreuker/stego-toolkit) 

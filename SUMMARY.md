@@ -18,6 +18,7 @@
 
 ## OSINT
 
+* [Usernames](osint/usernames.md)
 * [Geolocation](osint/geolocation.md)
 
 ## Enumeration
