@@ -29,17 +29,20 @@
 
 * [Living off the Land](privilege-escalation/living-off-the-land.md)
 
+## FORENSICS
+
+* [Tools](forensics/tools.md)
+
 ## Cheatsheets
 
-* [Server Side Template Injection \(SSTI\)](cheatsheets/server-side-template-injection-ssti.md)
+* [Server Side Template Injection (SSTI)](cheatsheets/server-side-template-injection-ssti.md)
 
 ## Learn To
 
 * [Hack](learn-to/hack.md)
 * [Code](learn-to/code.md)
 
----
+***
 
 * [Wordlists](untitled.md)
 * [Misc](misc.md)
-
